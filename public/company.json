@@ -178,5 +178,43 @@
             "phone": "239-239-2399",
             "email": "amazon@career.com"
         }
+    },
+
+    {
+        "id": 11,
+        "company_logo": "https://www.logo.wine/a/logo/Facebook/Facebook-Logo.wine.svg",
+        "job_title": "Software Engineer",
+        "company_name": "Facebook",
+        "remote_or_onsite": "Onsite",
+        "location": "Anywhere",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "$110,000 - $150,000",
+        "job_description": "An effective job title wiil typically include a general term, the level of experience and any special requirements. The general term will optimize your job title to show up in a general search for jobs of the same nature. The level of experience will help you attract the most qualified applicants by outlining the amount of responsibility and prior knowledge required. And if your position is specialized, consider including the specialization in the job title as well. But avoid using internal titles, abbreviations or acronyms to make sure people understand what your job posting is before clicking.",
+        "job_responsibility": "Analyze users' needs and then design and develop software to meet those needs. Recommend software upgrades for customers' existing programs and systems. Design each piece of an application or system and plan how the pieces will work together.",
+        "educational_requirements": "Bachelor's degree in Computer Science, a related field, or equivalent practical experience",
+        "experiences": "4+ year of experience in a large – scale network environment",
+        "contact_information": {
+            "phone": "321-321-8899",
+            "email": "facebook@career.com"
+        }
+    },
+
+    {
+        "id": 12,
+        "company_logo": "https://www.logo.wine/a/logo/SpaceX/SpaceX-Logo.wine.svg",
+        "job_title": "Data Analyst",
+        "company_name": "SpaceX",
+        "remote_or_onsite": "Remote",
+        "location": "Anywhere",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "$80,000 - $100,000",
+        "job_description": "A data analyst is responsible for organizing data related to sales numbers, market research, logistics, linguistics, or other behaviors. They utilize technical expertise to ensure data is accurate and high-quality. Data is then analyzed, designed, and presented in a way that assists individuals, businesses, and organizations make better decisions. Using automated tools to extract data from primary and secondary sourceDeveloping and maintaining databases, and data systems – reorganizing data in a readable format. Using statistical tools to identify, analyze, and interpret patterns and trends in complex data sets could be helpful for the diagnosis and prediction",
+        "job_responsibility": "Common responsibilities for Data Analysts include extracting data using special tools and software, responding to data-related queries, setting up processes to make data more efficient, analyzing and interpreting trends from the data, and reporting trends to add business value.",
+        "educational_requirements": "Bachelor's degree in Computer Science, a related field, or equivalent practical experience",
+        "experiences": "3+ year of experience in a large – scale network environment",
+        "contact_information": {
+            "phone": "721-345-5555",
+            "email": "spacex@career.com"
+        }
     }
 ]

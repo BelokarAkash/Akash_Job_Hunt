@@ -22,6 +22,36 @@
         "title": "Engineering Job",
         "available": "220+ Jobs Available",
         "logo": "https://img.freepik.com/free-vector/illustration-circuit_53876-5583.jpg?w=740&t=st=1681135555~exp=1681136155~hmac=e355c2f1d9abdb72e5990f777254b8b3bd11b48b6320673c6789c7b70c8de831"
+    },
+
+    {
+        "id": 5,
+        "title": "Architecture Job",
+        "available": "150+ Jobs Available",
+        "logo": "https://img.freepik.com/free-vector/outlined-city-buildings_1025-750.jpg?w=740&t=st=1702278693~exp=1702279293~hmac=e6e401be2760ba7afa472ee2093b24689137bd3652ce85c2d3735bffdfe44f63"
+    },
+
+    {
+        "id": 6,
+        "title": "Customer Support",
+        "available": "80+ Jobs Available",
+        "logo": "https://img.freepik.com/premium-vector/vector-neumorphic-style-customer-call-support-button-ui-design_181203-11747.jpg?w=740"
+    },
+    
+    {
+        "id": 7,
+        "title": "Research Analyst",
+        "available": "100+ Jobs Available",
+        "logo": "https://img.freepik.com/free-vector/research-elements-collection_1168-366.jpg?size=626&ext=jpg&ga=GA1.1.1324089488.1702278597&semt=ais"
+    },
+
+    {
+        "id": 8,
+        "title": "Digital Marketing",
+        "available": "130+ Jobs Available",
+        "logo": "https://img.freepik.com/free-vector/marketing-strategy-concept_1284-6167.jpg?size=626&ext=jpg&ga=GA1.1.1324089488.1702278597&semt=ais"
     }
+
+
     
 ]
